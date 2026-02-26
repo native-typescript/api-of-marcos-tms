@@ -8,4 +8,12 @@ RUN mkdir /home/developer/api-of-marcos-tms
 RUN chown developer:developer /home/developer/api-of-marcos-tms
 RUN apt-get update && apt-get install -y --no-install-recommends git
 RUN apt-get update && apt-get install -y --no-install-recommends openssh-client
+RUN apt-get update && apt-get install -y --no-install-recommends curl xz-utils ca-certificates
+RUN apt-get update && apt-get install -y --no-install-recommends libatomic1
+ARG NODE_JS__VERSION
+ENV NODE_JS__VERSION=${NODE_JS__VERSION}
+RUN curl -fsSL https://nodejs.org/dist/v${NODE_JS__VERSION}/node-v${NODE_JS__VERSION}-linux-x64.tar.xz -o /tmp/node.tar.xz
+RUN tar -xJf /tmp/node.tar.xz -C /tmp
+RUN cp -r /tmp/node-v${NODE_JS__VERSION}-linux-x64/* /usr/local/
+RUN rm -rf /tmp/node.tar.xz /tmp/node-v${NODE_JS__VERSION}-linux-x64
 USER developer
