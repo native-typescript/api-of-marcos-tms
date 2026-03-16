@@ -1214,6 +1214,10 @@ export default [
 		},
 	},
 	{
+		files: [`./commitlint.config.ts`],
+		rules: {"import-x/no-default-export": [`off`]},
+	},
+	{
 		files: [`./eslint.config.ts`],
 		rules: {"import-x/no-default-export": [`off`]},
 	},
