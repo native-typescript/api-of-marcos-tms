@@ -7,6 +7,7 @@
 	"bugs": {
 		"url": "https://github.com/native-typescript/api-of-marcos-tms/issues"
 	},
+	"description": "An implementation of a client of the API of Marcos TMS.",
 	"devDependencies": {
 		"@commitlint/cli": "20.5.0",
 		"@commitlint/types": "20.5.0",
@@ -30,6 +31,7 @@
 		"node": ">=25.9.0",
 		"npm": ">=11.9.0"
 	},
+	"exports": "./module.ts",
 	"homepage": "https://github.com/native-typescript/api-of-marcos-tms#readme",
 	"name": "@native-typescript/api-of-marcos-tms",
 	"repository": {
