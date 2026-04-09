@@ -1,0 +1,5 @@
+/**/*
+!/package.json
+!/README.md
+!/source/**/*
+/source/**/*.test.ts
