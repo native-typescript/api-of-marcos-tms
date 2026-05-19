@@ -1,1 +1,1 @@
-export type {source as apiOfMarcosTms} from "./index.ts";
+export {source as apiOfMarcosTms} from "./index.ts";

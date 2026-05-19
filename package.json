@@ -7,6 +7,9 @@
 	"bugs": {
 		"url": "https://github.com/native-typescript/api-of-marcos-tms/issues"
 	},
+	"dependencies": {
+		"zod": "4.4.3"
+	},
 	"description": "An implementation of a client of the API of Marcos TMS.",
 	"devDependencies": {
 		"@commitlint/cli": "20.5.0",

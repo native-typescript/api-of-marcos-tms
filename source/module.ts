@@ -1,1 +1,1 @@
-export type * as source from "./index.ts";
+export * as source from "./index.ts";
