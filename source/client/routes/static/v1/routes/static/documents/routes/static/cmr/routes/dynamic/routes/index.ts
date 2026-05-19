@@ -1,0 +1,2 @@
+export {RoutesOfDynamicOfRoutesOfCmrOfStaticOfRoutesOfDocumentsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./RoutesOfDynamicOfRoutesOfCmrOfStaticOfRoutesOfDocumentsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";
+export * from "./static/index.ts";

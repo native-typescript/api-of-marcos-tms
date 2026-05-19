@@ -7,6 +7,9 @@
 	"bugs": {
 		"url": "https://github.com/native-typescript/api-of-spotgo/issues"
 	},
+	"dependencies": {
+		"zod": "4.4.3"
+	},
 	"description": "An implementation of a client of the API of SpotGo.",
 	"devDependencies": {
 		"@commitlint/cli": "20.5.0",

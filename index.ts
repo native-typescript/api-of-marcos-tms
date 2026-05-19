@@ -1,1 +1,1 @@
-export type * as apiOfSpotgo from "./source/index.ts";
+export * as apiOfSpotgo from "./source/index.ts";

@@ -1,0 +1,1 @@
+export {schemaOfBodyOfResponseToPostOfMethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./schemaOfBodyOfResponseToPostOfMethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";
