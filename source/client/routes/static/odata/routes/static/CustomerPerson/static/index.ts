@@ -1,0 +1,1 @@
+export {StaticOfCustomerPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./StaticOfCustomerPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

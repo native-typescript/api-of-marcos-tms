@@ -1,1 +1,0 @@
-export {StaticOfRoutesOfUpsertOfStaticOfRoutesOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./StaticOfRoutesOfUpsertOfStaticOfRoutesOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

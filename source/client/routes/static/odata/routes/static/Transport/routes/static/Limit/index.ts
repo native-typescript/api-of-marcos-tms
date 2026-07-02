@@ -1,0 +1,1 @@
+export {LimitOfStaticOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./LimitOfStaticOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

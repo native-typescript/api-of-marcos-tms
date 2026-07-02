@@ -1,0 +1,1 @@
+export {schemaOfDateOfBodyOfRequestToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./schemaOfDateOfBodyOfRequestToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

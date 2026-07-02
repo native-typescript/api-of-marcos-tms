@@ -1,1 +1,0 @@
-export {MethodsOfShareOfStaticOfRoutesOfFreightsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./MethodsOfShareOfStaticOfRoutesOfFreightsOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

@@ -1,0 +1,1 @@
+export {schemaOfBodyOf200ResponseToGetOfMethodsOfKindsOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./schemaOfBodyOf200ResponseToGetOfMethodsOfKindsOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

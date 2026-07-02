@@ -1,1 +1,1 @@
-export * as apiOfSpotgo from "./source/index.ts";
+export * as apiOfMarcosTms from "./source/index.ts";

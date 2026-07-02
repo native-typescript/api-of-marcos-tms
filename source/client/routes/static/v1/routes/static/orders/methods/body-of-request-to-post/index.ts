@@ -1,1 +1,0 @@
-export type {BodyOfRequestToPostOfMethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./BodyOfRequestToPostOfMethodsOfOrdersOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

@@ -1,0 +1,1 @@
+export {DynamicOfRoutesOfPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./DynamicOfRoutesOfPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

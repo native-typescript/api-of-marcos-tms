@@ -1,5 +1,5 @@
 services:
-  api-of-spotgo:
+  api-of-marcos-tms:
     build:
       args:
         DEBIAN__DOCKER_IMAGE__TAG__DATE: "20251208"
@@ -11,7 +11,7 @@ services:
       - consistency: "consistent"
         read_only: false
         source: ".."
-        target: "/home/developer/api-of-spotgo"
+        target: "/home/developer/api-of-marcos-tms"
         type: "bind"
       - consistency: "consistent"
         read_only: false

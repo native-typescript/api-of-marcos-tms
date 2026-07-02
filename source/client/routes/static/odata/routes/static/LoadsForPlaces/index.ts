@@ -1,0 +1,1 @@
+export {LoadsForPlacesOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./LoadsForPlacesOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

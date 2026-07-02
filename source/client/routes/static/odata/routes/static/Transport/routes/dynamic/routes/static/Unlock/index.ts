@@ -1,0 +1,1 @@
+export {UnlockOfStaticOfRoutesOfDynamicOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./UnlockOfStaticOfRoutesOfDynamicOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

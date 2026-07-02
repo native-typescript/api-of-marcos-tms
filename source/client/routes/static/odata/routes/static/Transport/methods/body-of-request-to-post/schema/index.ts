@@ -1,0 +1,2 @@
+export * from "./date/index.ts";
+export {schemaOfBodyOfRequestToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./schemaOfBodyOfRequestToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

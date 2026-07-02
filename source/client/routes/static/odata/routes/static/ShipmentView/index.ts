@@ -1,0 +1,1 @@
+export {ShipmentViewOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./ShipmentViewOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

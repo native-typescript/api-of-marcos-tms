@@ -21,9 +21,9 @@
 	"remoteEnv": {},
 	"remoteUser": "developer",
 	"securityOpt": [],
-	"service": "api-of-spotgo",
+	"service": "api-of-marcos-tms",
 	"shutdownAction": "stopCompose",
 	"updateRemoteUserUID": true,
 	"userEnvProbe": "none",
-	"workspaceFolder": "/home/developer/api-of-spotgo"
+	"workspaceFolder": "/home/developer/api-of-marcos-tms"
 }

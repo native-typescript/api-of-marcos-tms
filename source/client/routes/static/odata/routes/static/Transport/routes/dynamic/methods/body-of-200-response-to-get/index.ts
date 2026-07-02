@@ -1,0 +1,2 @@
+export type {BodyOf200ResponseToGetOfMethodsOfDynamicOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./BodyOf200ResponseToGetOfMethodsOfDynamicOfRoutesOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";
+export * from "./schema/index.ts";

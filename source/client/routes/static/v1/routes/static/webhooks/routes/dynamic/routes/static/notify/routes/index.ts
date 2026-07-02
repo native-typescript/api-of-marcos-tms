@@ -1,2 +1,0 @@
-export {RoutesOfNotifyOfStaticOfRoutesOfDynamicOfRoutesOfWebhooksOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./RoutesOfNotifyOfStaticOfRoutesOfDynamicOfRoutesOfWebhooksOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";
-export * from "./static/index.ts";

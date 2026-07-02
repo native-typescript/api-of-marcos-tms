@@ -1,1 +1,0 @@
-export {MethodsOfOpportunitiesOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient} from "./MethodsOfOpportunitiesOfStaticOfRoutesOfV1OfStaticOfRoutesOfClient.ts";

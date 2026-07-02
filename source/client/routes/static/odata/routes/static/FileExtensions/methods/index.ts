@@ -1,0 +1,1 @@
+export {MethodsOfFileExtensionsOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./MethodsOfFileExtensionsOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

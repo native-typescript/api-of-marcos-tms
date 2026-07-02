@@ -1,1 +1,0 @@
-export {MethodsOfDynamicOfRoutesOfOrdersOfStaticOfRoutesOfV2OfStaticOfRoutesOfClient} from "./MethodsOfDynamicOfRoutesOfOrdersOfStaticOfRoutesOfV2OfStaticOfRoutesOfClient.ts";

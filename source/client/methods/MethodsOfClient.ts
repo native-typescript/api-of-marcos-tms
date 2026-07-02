@@ -1,8 +1,6 @@
 export class MethodsOfClient {
-	public constructor(baseUrl: string, parameters: readonly []) {
-		this.baseUrl = baseUrl;
-		this.parameters = parameters;
+	public constructor(url: string) {
+		this.url = url;
 	}
-	private readonly baseUrl: string;
-	private readonly parameters: readonly [];
+	public readonly url: string;
 }

@@ -1,0 +1,1 @@
+export {DynamicOfRoutesOfAcceptTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./DynamicOfRoutesOfAcceptTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

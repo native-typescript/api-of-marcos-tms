@@ -1,0 +1,1 @@
+export {MethodsOfDynamicOfRoutesOfAttachmentFileOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./MethodsOfDynamicOfRoutesOfAttachmentFileOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

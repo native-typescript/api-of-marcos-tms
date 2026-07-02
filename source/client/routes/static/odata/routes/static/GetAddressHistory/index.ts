@@ -1,0 +1,1 @@
+export {GetAddressHistoryOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./GetAddressHistoryOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

@@ -1,0 +1,1 @@
+export {MethodsOfPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./MethodsOfPersonOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

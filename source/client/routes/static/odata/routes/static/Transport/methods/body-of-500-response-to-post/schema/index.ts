@@ -1,0 +1,1 @@
+export {schemaOfBodyOf500ResponseToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient} from "./schemaOfBodyOf500ResponseToPostOfMethodsOfTransportOfStaticOfRoutesOfOdataOfStaticOfRoutesOfClient.ts";

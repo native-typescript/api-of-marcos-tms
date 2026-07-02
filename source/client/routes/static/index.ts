@@ -1,3 +1,4 @@
+export * from "./AppVersion/index.ts";
+export * from "./Handshake/index.ts";
+export * from "./odata/index.ts";
 export {StaticOfRoutesOfClient} from "./StaticOfRoutesOfClient.ts";
-export * from "./v1/index.ts";
-export * from "./v2/index.ts";
